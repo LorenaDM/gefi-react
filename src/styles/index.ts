@@ -1,4 +1,4 @@
-// Create a Title component that'll render an <h1> tag with some styles
+/* // Create a Title component that'll render an <h1> tag with some styles
 const Title = styled.h1`
   font-size: 1.5em;
   text-align: center;
@@ -18,4 +18,4 @@ render(
       Hello World!
     </Title>
   </Wrapper>
-);
+); */
