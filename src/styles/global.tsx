@@ -9,7 +9,6 @@ export const GlobalStyle = createGlobalStyle`
       box-sizing: border-box;
       font-family: 'Inter', sans-serif;
     }
-<<<<<<< HEAD:src/styles/global.ts
 `
 const Button = styled.button`
   /* Adapt the colors based on primary prop */
@@ -29,10 +28,10 @@ render(
     <Button primary>Primary</Button>
   </div>
 );
-=======
+
     body {
     background: #EEE;
   }
 `
 
->>>>>>> a77beb43ab3a3b185d6754f199c620931054684a:src/styles/global.tsx
+
